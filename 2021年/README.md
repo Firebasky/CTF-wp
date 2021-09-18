@@ -16,8 +16,8 @@
 + mtctf  **没有写wp**
 + 津门杯  **没有写**
 + [2021翔云杯](https://www.anquanke.com/post/id/251221) **ak web**
-+ [2021网刃]() **没有写比较简单。。**
-+ [2021羊城杯]()   **ak web**
++ [2021网刃]() **没有写比较简单。。 ak web**
++ [2021羊城杯](https://www.anquanke.com/post/id/253051)   **java不会**
 + [2021第五空间]()  **ak web**  **比较sb题。。。**
 + [2021 RCTF]()  **就做了EZshell**
 + 
